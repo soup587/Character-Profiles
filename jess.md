@@ -23,3 +23,8 @@ On occasion she can be more outgoing and assertive, but generally tries avoiding
 ### Shapeshifting
 She can change herself physically in almost any way she wants - but struggles to take on less organic looking forms.<br>
 She finds adjusting herself the easiest, but can take on the forms of other people and creatures, taking more effort and energy the more said form diverges from her own.
+
+### Telekinesis 
+
+### Element creation/manipulation
+Fire, water, ice, etc
